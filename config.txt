@@ -116,7 +116,7 @@
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
 "pool_address" : "xmr-asia1.nanopool.org:14444",
-"wallet_address" : "4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRwomJGYVSUKMaznsGQ.GCP",
+"wallet_address" : "4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQnzXEc87B2AHDzrigP.GCP",
 "pool_password" : "x",
 
 /*
